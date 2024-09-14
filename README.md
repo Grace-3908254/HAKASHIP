@@ -12,10 +12,6 @@ HÆKÆSHIP is an intergalactic beacon and networking site for the Hækætheæns,
 - Scrolling history section
 - Contact form for other species to reach out
 
-## 🌌 Demo
-
-Check out the live demo: [HÆKÆSHIP Demo](https://pauljones0.github.io/2024Hackathon/)
-
 ## 🛠️ Built With
 
 - HTML5
@@ -23,16 +19,6 @@ Check out the live demo: [HÆKÆSHIP Demo](https://pauljones0.github.io/2024Hack
 - JavaScript
 - [Leaflet.js](https://leafletjs.com/) for mapping
 - [Typed.js](https://github.com/mattboldt/typed.js/) for text animation
-
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/pauljones0/2024Hackathon.git
-   ```
-2. Open `index.html` in your browser
 
 ## 👽 Usage
 
